@@ -1,0 +1,33 @@
+.social-icons{
+    text-align: center;
+  }
+
+  .git{
+    margin: 2%;
+    color: white;
+    font-size: 3rem;
+  }
+
+  .git:hover{
+    color: #16fa01;
+  }
+
+  .twitter{
+    margin: 2%;
+    color: white;
+    font-size: 3rem;
+  }
+
+  .twitter:hover{
+    color: #00acee;
+  }
+
+  .linkedin{
+    margin: 2%;
+    color: white;
+    font-size: 3rem;
+  }
+  
+  .linkedin:hover{
+    color: #0e76a8;
+  }
