@@ -12,6 +12,12 @@ import SocialIcons from '../social_icons';
 function Home_Right() {
   return (
     <Container className="home-right">
+      <nav className="nav">
+  
+  <a class="nav-link" href="#projects">Projects</a>
+  <a class="nav-link" href="#contact">Contact</a>
+  
+</nav>
       <Row className="home-right-main">
         <Col xl={12}>
           <br />
@@ -21,6 +27,7 @@ function Home_Right() {
           <SocialIcons />
         </Row>
       </Row>
+
     </Container>
   );
 }
