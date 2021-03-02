@@ -4,12 +4,13 @@
     height: 100%;
     width: 100%;
     color: white;
-    background-color: rgb(9,9,9);
+    background-color: rgba(9, 9, 9, 0.527);
 }
 
 .project_header{
     justify-content: center;
     font-family: 'Sulphur Point', sans-serif;
+    margin-top: 40px;
 }
 
 .modal_close_icon_container{

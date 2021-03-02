@@ -11,7 +11,7 @@ import  Skills from '../skills_icons'
   function Home_Left() {
   return (
    <Container className="home-left" >
-    <Row className="home-left-main">
+    <Row className="home-left-main" >
        <Col xl={12} className="home-left-main-col">
          <h1 className="first-line">
            Hello! 

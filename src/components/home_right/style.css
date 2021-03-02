@@ -7,11 +7,27 @@
   }
 
   .home-right-main-img{
-      height: 75vh;
+      height: 65vh;
       margin: auto;    
       display: block;
   }
 
   .home-right-footer{
      width: 100%;
+     margin-bottom: 25px;
+    
+  }
+
+ .nav {
+   display: flex;
+   justify-content: center;
+ }
+
+  .nav-link {
+    color: white;
+    cursor: pointer
+  }
+
+  .nav-link:hover {
+    color: #16fa01;
   }

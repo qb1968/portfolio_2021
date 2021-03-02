@@ -11,6 +11,7 @@
     font-size: 2.5rem;
     padding: 1%;
     font-family: 'Raleway', sans-serif;
+    color: white;
    }
 
 .contact_input{
@@ -39,8 +40,8 @@
      padding-bottom: 3%;
    }
  
-.contact-email-text-btn:hover{
-      background: #666666;
+button.contact-email-text-btn:hover{
+      background: #16fa01;
       color: aliceblue;
   }
  
