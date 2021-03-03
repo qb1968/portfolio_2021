@@ -1,5 +1,4 @@
 import RM from '../images/rick.png'
-import Wunder from '../images/wunder.jpg'
 import ECOM from '../images/ecom.png'
 import SFMTA from '../images/SFMTA.png'
 import Movie from '../images/Movies.png'
