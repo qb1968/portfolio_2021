@@ -14,8 +14,8 @@ function Home_Right() {
     <Container className="home-right">
       <nav className="nav">
   
-  <a class="nav-link" href="#projects">Projects</a>
-  <a class="nav-link" href="#contact">Contact</a>
+  <a className="nav-link" href="#projects">Projects</a>
+  <a className="nav-link" href="#contact">Contact</a>
   
 </nav>
       <Row className="home-right-main">
