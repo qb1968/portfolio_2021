@@ -4,7 +4,7 @@ import ECOM from '../images/ecom.png'
 import SFMTA from '../images/SFMTA.png'
 import Movie from '../images/Movies.png'
 import Super from '../images/superhero.jpg'
-import Memories from '../images/memories.jpg'
+import Memory from '../images/memories.jpg'
 
 const info = 
      [ 
@@ -37,7 +37,7 @@ const info =
         link: 'https://suspicious-carson-ecf6e2.netlify.app/',
         about: 'Project to post some of your favorite memories.',
         github: 'https://github.com/qb1968/project_mern_memories-front-end-',
-        image: Memories
+        image: Memory
 
     },
     {
