@@ -4,6 +4,7 @@ import ECOM from '../images/ecom.png'
 import SFMTA from '../images/SFMTA.png'
 import Movie from '../images/Movies.png'
 import Super from '../images/superhero.jpg'
+import Memories from '../images/memories.jpg'
 
 const info = 
      [ 
@@ -31,12 +32,12 @@ const info =
     },
     {
         id: 2,
-        name: 'WunderList',
-        tools: 'Express,NodeJS',
-        link: 'https://frontend-f31fx9705.now.sh/',
-        about: 'Project where my responsibility was to build backend',
-        github: 'https://github.com/Build-Week-Wunderlist-4/Backend/tree/jonathan-allison',
-        image: Wunder
+        name: 'Memories',
+        tools: 'React, Redux, Material-UI',
+        link: 'https://suspicious-carson-ecf6e2.netlify.app/',
+        about: 'Project to post some of your favorite memories.',
+        github: 'https://github.com/qb1968/project_mern_memories-front-end-',
+        image: Memories
 
     },
     {
