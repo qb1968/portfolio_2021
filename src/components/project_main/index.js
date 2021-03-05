@@ -42,7 +42,7 @@ const PM = () => {
               
         
         </Card.Body>
-        <div>
+        <div className="links">
         <Card.Link href={item.link} target="_blank"><FontAwesomeIcon className="icon" size="lg" icon={faLink}/></Card.Link>
               <Card.Link href={item.github} target="_blank"><FontAwesomeIcon className="icon" size="lg" icon={faGithub}/></Card.Link>
               </div>
