@@ -8,7 +8,7 @@ function Skills() {
   return (
          <Col xl={12}  className="skills">
           <p>
-             HTML | CSS | JavaScript | React | Express | MongoDB | NodeJS | Python | Jest | LESS/SASS | React Native 
+             HTML | CSS | JavaScript | React | Express | MongoDB | NodeJS | Python | Jest | LESS/SASS | React Native |VueJS
           </p>
          
          </Col>
