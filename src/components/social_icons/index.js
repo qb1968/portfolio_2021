@@ -5,7 +5,7 @@ import {
 } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faTwitter, faGithub, faLinkedin, faReadme } from '@fortawesome/free-brands-svg-icons';
-import JMAResume from '../../JMAResume.pdf'
+import JMAResume from '../../Resume.pdf'
 
 function SocialIcons() {
   return (

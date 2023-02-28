@@ -21,7 +21,7 @@ import  Skills from '../skills_icons'
          </h2>
          <h3>
          <ReactTypingEffect
-           text="<Full Stack Web Developer/>" //text=["Hello.", "World!"]
+           text="<Full Stack Web Developer and DevOps Engineer/>" //text=["Hello.", "World!"]
            className="typical"
            speed="100"
            eraseDelay="500000"

@@ -1,20 +1,20 @@
 import RM from '../images/rick.png'
 import ECOM from '../images/RaceCityComics.png'
-import SFMTA from '../images/SFMTA.png'
+import GENTLEWELLNESS from '../images/GENTLEWELLNESS.png'
 import Movie from '../images/Movies.png'
 import Super from '../images/superhero.jpg'
-import Memory from '../images/memories.jpg'
+import ecpt from '../images/ecpt.png'
 
 const info = [
   {
     id: 0,
-    name: "SFMTA DATA ANALYSIS",
+    name: "Gentle Wellness Medi-Spa",
     tools: "React",
     about:
-      "Collaborated with Data Science, UX, and Web. Member of the FrontEnd team. Site was created to moniter bunches and gaps for the SFMTA",
-    link: "https://labs2020.vercel.app/",
-    github: "https://github.com/qb1968/Labs2020",
-    image: SFMTA,
+      "Website created for company in Maryland. Built with React",
+    link: "https://www.gentlewellnessllc.com",
+    github: "https://github.com/qb1968/GW2",
+    image: GENTLEWELLNESS,
   },
     {
         id: 1,
@@ -29,11 +29,11 @@ const info = [
   {
     id: 2,
     name: "Memories",
-    tools: "React, Redux, Material-UI",
-    link: "https://suspicious-carson-ecf6e2.netlify.app/",
-    about: "Project to post some of your favorite memories.",
-    github: "https://github.com/qb1968/project_mern_memories-front-end-",
-    image: Memory,
+    tools: "React",
+    link: "https://www.ecpt-cb.com",
+    about: "Project done for physical therapist in Maryland.",
+    github: "https://github.com/qb1968/ecpt-cb",
+    image: ecpt,
   },
   {
     id: 3,

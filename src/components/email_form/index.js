@@ -44,7 +44,7 @@ class Email_Form extends React.Component {
       
       let templateParams = {
         from_name: email,
-        to_name: 'motasimfoad@gmail.com',
+        to_name: 'mark.allison75@gmail.com',
         name:name,
         subject: subject,
         message_html: message,
@@ -54,7 +54,7 @@ class Email_Form extends React.Component {
        // Use your own API key
        //=======================
   
-       emailjs.send('service_68tukea', 'template_uyojpy3', templateParams,'user_ZwzQz54DI5UoSAiLTA0Z7')
+       emailjs.send('service_68tukea', 'template_0g8aydr', templateParams,'user_ZwzQz54DI5UoSAiLTA0Z7')
        .then((result) => {
           this.handleShow();
           console.log(result.text);
