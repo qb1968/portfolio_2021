@@ -28,7 +28,7 @@ const info = [
   },
   {
     id: 2,
-    name: "Memories",
+    name: "Elite Care Physical Therapy",
     tools: "React",
     link: "https://www.ecpt-cb.com",
     about: "Project done for physical therapist in Maryland.",
